@@ -5,7 +5,6 @@ VisualStudioVersion = 16.0.29001.49
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{E823E2C3-5A4F-488A-9441-0E01EF827534}"
 	ProjectSection(SolutionItems) = preProject
-		output\ANDROID_MANIFEST_EXTENSIONS.XML = output\ANDROID_MANIFEST_EXTENSIONS.XML
 		output\MANIFEST.XML = output\MANIFEST.XML
 	EndProjectSection
 EndProject
